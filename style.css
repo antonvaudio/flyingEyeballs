@@ -10,7 +10,7 @@ html, body{
   height: 100%;
   width: 100%;
   font-family: "Poppins";
-}
+} 
 
 
 .navbar{
@@ -22,19 +22,18 @@ html, body{
 }
 
 .navbar-nav li{
-  
   padding-right: 1.4em;
 
 }
 
 .nav-link{
   font-size: 1.1em !important;
-  color: black;
-}
+  color: #000000;
+} 
 
-.ml-auto, .mx-auto {
+ .ml-auto, .mx-auto {
   margin-left: auto !important;
-}
+} 
 
 a{
   color: black !important;
@@ -55,6 +54,11 @@ a{
   height: 100%;
 }
 
+.jumbotron{
+  margin-bottom: 0px !important;
+  min-height: 540px;
+}
+
 .col-sm-6{
   padding-left:0px !important;
   padding-right:0px !important;
@@ -67,3 +71,4 @@ a{
   margin-right: 0px !important; 
   margin-left: 0px !important; 
 }
+
