@@ -72,3 +72,9 @@ a{
   margin-left: 0px !important; 
 }
 
+.frame{
+  widows: 200px;
+  height: 200px;
+  color: red;
+  opacity: 60%;
+}
